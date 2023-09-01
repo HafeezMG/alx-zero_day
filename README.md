@@ -1,2 +1,2 @@
 My first readme
-Software engineer
+Software engineering
